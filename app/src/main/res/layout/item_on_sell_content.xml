@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:sob="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    sob:cardElevation="4dp"
+    sob:cardBackgroundColor="@color/white"
+    sob:contentPadding="5dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="160dp"
+            android:id="@+id/on_sell_cover"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_launcher"/>
+        <TextView
+            android:layout_marginTop="6dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/on_sell_title_tv"
+            android:textSize="12sp"
+            android:maxLines="2"
+            android:ellipsize="end"
+            android:text="绝对是方可进入符号ui回复拉杰霍夫斤斤计较急急急号ui回复拉杰霍夫号ui回复拉杰霍夫"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="11dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/on_sell_origin_prise_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="￥58.9"
+                android:textColor="#D0021B"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:id="@+id/on_sell_off_prise_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="卷后价：28.8"
+                android:textColor="#D0021B"
+                android:textSize="14sp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

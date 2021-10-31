@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sob="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EFEEEE">
+
+    <com.ui.custom.TextFlowLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_flow_layout"
+        sob:horizontalSpace = "20px"
+        sob:verticalSpace = "20px">
+</com.ui.custom.TextFlowLayout>
+</LinearLayout>
