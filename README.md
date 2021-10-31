@@ -10,4 +10,5 @@ App UI 展示：
 ![微信图片_20211031111927.jpg](https://i.loli.net/2021/10/31/JBlE45GoMVOdZrs.jpg)
 ![微信图片_20211031112006.jpg](https://i.loli.net/2021/10/31/Btc1QxoOPSnKAlz.jpg)
 ![微信图片_20211031112010.jpg](https://i.loli.net/2021/10/31/RHiYaLrNOZcoSdP.jpg)
+![微信图片_20211031215043.jpg](https://i.loli.net/2021/10/31/LEq3f2kpHtr5DGh.jpg)
 ![微信图片_20211031112001.jpg](https://i.loli.net/2021/10/31/avzS2BPIiZn7moQ.jpg)
