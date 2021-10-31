@@ -8,7 +8,7 @@ App主要用途：领取淘宝商品的优惠卷
 4、搜索页：页面由搜索框、搜索历史、热门搜索关键词组成。可在搜索框输入内容发起搜索，以列表的形式展示搜索结果。
 App UI 展示：
 首页
-![微信图片_20211031111927.jpg](https://i.loli.net/2021/10/31/6QdiPe2Ao4X3qCR.jpg)
+![微信图片_20211031111927.jpg](https://i.loli.net/2021/10/31/JBlE45GoMVOdZrs.jpg)
 精选
 ![微信图片_20211031112006.jpg](https://i.loli.net/2021/10/31/y9I2Bl7OVHjzUcF.jpg)
 特惠
